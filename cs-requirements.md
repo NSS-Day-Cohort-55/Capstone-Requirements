@@ -1,6 +1,4 @@
-# Capstone Information
-
-## Requirements
+# Capstone Requirements
 
 ### Proposal/Planning
 
