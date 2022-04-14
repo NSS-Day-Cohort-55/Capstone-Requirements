@@ -24,10 +24,10 @@ Once you have a completed proposal, you will meet with an instruction team membe
 ### DEADLINES
 * **Beginning Now** Share your initial idea (1-2 sentences) with instruction team and get 👍 thumbs-up.
 
-* **Friday 4/21/2021:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal.md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
+* **Thursday 4/21/2022:** Last Day for Final Capstone Proposals, see [instructions](./02-capstone-proposal.md). **Sooner is better**. We have to review all proposals and have 1-on-1's with each of you.
 
 * **Ongoing** As complete proposals are received, 1-on-1s with mentor to determine realistic MVP.
-
+* **5/4/2022** May the Forth Be With You 
 * **Thursday 5/5/2022:** That last day for MVP approval. **Sooner is better**. 
 	1. Demonstrate MVP goals to your mentor
 	2. Explain the code for your application to the lead instructor. Be prepared to answer questions related to anything covered in the frontend and how you might add another feature to your application.
