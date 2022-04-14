@@ -62,7 +62,7 @@ Need help? Go [here](./04-setting-up-your-repo.md) for repo setup instructions.
 * Daily Standups with mentoring group.
 * One-on-Ones will start as we receive proposals.
 
-# Before asking for help, answer these 5 questions.
+## Before asking for help, answer these 5 questions.
 1. What is it suppose to do?
 1. What is it doing?
 1. What have you tried?
